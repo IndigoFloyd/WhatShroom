@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">什蘑</string>
+    <string name="button1">拍摄图片</string>
+    <string name="button2">上传图片</string>
+</resources>

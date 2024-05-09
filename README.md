@@ -73,7 +73,7 @@ The construction looks like as follows:
 </div>
 And here is a simple demonstration:
 <div align=center>
-<img src="Android APP/WhatShroom.gif"/>
+<img src="Android APP/WhatShroom.gif" width="30%"/>
 </div>
 
 

@@ -63,7 +63,7 @@ Here is a simple demonstration:
 </div>
 
 #### 2.4.2  Android version 📱
-We also developed the Android version, using Android Studio. It runs smoothly on the Huawei Mate 40E phone for testing. Considering the performance of the mobile platform, the inference step is running on your self-built server(refer to [Deploy the model on a cloud server](#23-Deploy-the-model-on-a-cloud-server).
+We also developed the Android version, using Android Studio. It runs smoothly on the Huawei Mate 40E phone for testing. Considering the performance of the mobile platform, the inference step is running on your self-built server(refer to [Deploy the model on a cloud server](#23--Deploy-the-model-on-a-cloud-server).
 The construction looks like as follows:
 <div align=center>
 <img src="Android APP/construction.png"/>

@@ -1,4 +1,4 @@
-🍄A toxic mushroom detection project based on YOLOv5, deployed on a cloud server and running on Android devices.🍄
+🍄**WhatShroom(什蘑)** is a toxic mushroom detection project based on YOLOv5, deployed on a cloud server and running on Android devices.🍄
 
 ⭐**Star us if you like our work~**⭐
 ## 1  Why to do 😕

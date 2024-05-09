@@ -19,8 +19,8 @@ To address these shortcomings, this project proposes a novel mobile mushroom spe
 - Develop an Android app; ✅
 ## 2  How to do 🤔
 ### 2.1  Construct the dataset
-There are many kinds of poisonous mushroom. Due to personal limitations, only common Chinese poisonous mushrooms will be considered in the dataset. The list of species is referenced from this literature: 包海鹰, 李玉. 中国毒蘑菇名录\[J]. 菌物学报, 2014, 33(3): 517-548. In this project, this list locates at ```WhatShroom/Windows GUI & Forward/classes.txt```
-Image resources are from this dataset: Wilson, N., Hollinger, J., et al. 2006-present. Mushroom Observer. [https://mushroomobserver.org](https://mushroomobserver.org/). I wrote a python script for filtering the poisonous mushroom species that are in the above list and have more than 150 images, and downloading the corresponding images from the dataset.
+There are many kinds of poisonous mushroom. Due to personal limitations, only common Chinese poisonous mushrooms will be considered in the dataset. The list of species is referenced from this literature: ```包海鹰, 李玉. 中国毒蘑菇名录\[J]. 菌物学报, 2014, 33(3): 517-548```. In this project, this list locates at ```WhatShroom/Windows GUI & Forward/classes.txt```
+Image resources are from this dataset: ```Wilson, N., Hollinger, J., et al. 2006-present. Mushroom Observer. [https://mushroomobserver.org](https://mushroomobserver.org/)```. I wrote a python script for filtering the poisonous mushroom species that are in the above list and have more than 150 images, and downloading the corresponding images from the dataset.
 In this way, a dataset is constructed encompassing 64 toxic mushroom species, with 150 images per species included. However, only the first 5 species are labeled.
 ### 2.2  Train the model
 The dataset was split into training, validation, and test sets following a 0.8/0.1/0.1 ratio. Finally, there are 540 images as the training set, 68 images as the test set and 67 images as the validation set. 
